@@ -7,6 +7,7 @@ public class MyUtil {
                 a %= b;
             else
                 b %= a;
+
         return a + b;
     }
 
